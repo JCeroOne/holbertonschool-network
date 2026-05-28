@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Shows all listening ports
+# Pings the specified address five times
 
 if [$# -eq 0]
 then
